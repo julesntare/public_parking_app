@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740409742821",
+    "firebase_url": "https://parkinapp.firebaseio.com",
+    "project_id": "parkinapp",
+    "storage_bucket": "parkinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740409742821:android:e3897f471392228eee0b0c",
+        "android_client_info": {
+          "package_name": "com.example.parkinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740409742821-vdmfpiet5rdpe7icnpu4defmm2ul8sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihAUqO0-0L3dfm4u_o_paFrzNT8dC_PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740409742821-vdmfpiet5rdpe7icnpu4defmm2ul8sst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
